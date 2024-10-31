@@ -1,5 +1,5 @@
 import React from "react";
-import image from "../images/aboutimg.jpg";
+import image from "../images/about3.png";
 
 const AboutUs = () => {
   return (
@@ -15,13 +15,11 @@ const AboutUs = () => {
           </div>
           <div className="hero-content">
             <p>
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Quibusdam tenetur doloremque molestias repellat minus asperiores
-              in aperiam dolor, quaerat praesentium. Lorem ipsum dolor sit amet
-              consectetur adipisicing elit. Voluptatibus, repudiandae! Lorem
-              ipsum dolor sit amet consectetur adipisicing elit. Provident
-              quibusdam doloremque ex? Officia atque ab dolore? Tempore totam
-              non ea!
+            At MyDocScheduler, we believe that health should be accessible, efficient, and stress-free. Our platform is dedicated to connecting patients with top healthcare professionals, simplifying the process of booking appointments, and ensuring that you receive the care you need—right when you need it. With MyDocScheduler, managing your health has never been easier.
+            </p>
+            <h3>Our Mission:</h3>
+            <p>
+            Our mission is to simplify the healthcare journey by connecting patients with a wide network of qualified doctors and specialists. We aim to eliminate the frustration of traditional appointment booking, offering a platform that is both intuitive and responsive.
             </p>
           </div>
         </div>

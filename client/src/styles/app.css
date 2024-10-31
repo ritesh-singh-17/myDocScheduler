@@ -112,6 +112,10 @@ p {
   height: 100%;
 }
 
+.why-choose-us{
+  margin-top: 5rem;
+}
+
 @media (max-width: 1024px) {
   html {
     font-size: 90%;

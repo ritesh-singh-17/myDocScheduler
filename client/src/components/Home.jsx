@@ -7,7 +7,6 @@ import Navbar from "../components/Navbar";
 import HomeCircles from "../components/HomeCircles";
 import WhyChooseUs from "../components/WhyChooseUs";
 import OurMission from "../components/OurMission";
-import HowItWorks from "../components/HowItWorks";
 
 const Home = () => {
   return (
@@ -15,9 +14,8 @@ const Home = () => {
       <Navbar />
       <Hero />
       <AboutUs />
-      {/* <OurMission/> */}
+      <OurMission/>
       <WhyChooseUs/>
-      <HowItWorks/>
       <HomeCircles />
       <Contact />
       <Footer />
